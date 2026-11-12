@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.sqlite3*
+*.db
+*.db-*
+*.xlsx
+*.xls
+data/
+copias_excel/
+vista_previa.png
